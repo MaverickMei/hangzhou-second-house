@@ -1,0 +1,10 @@
+
+1、git status                   #查看当前状态
+
+2、git add *                    #更新全部
+
+3、git commit -m "更新说明"     #提交到暂存区
+
+4、git pull                     #拉取远程分支和当前本地分支合并 git pull origin master:master <远程主机><远程分支>：<本地分支>
+
+5、git push origin master       #push到远程master分支上
